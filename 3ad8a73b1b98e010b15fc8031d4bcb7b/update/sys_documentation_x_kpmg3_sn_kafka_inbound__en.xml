@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="" label="inbound" language="en" table="x_kpmg3_sn_kafka_inbound">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element/>
+            <help/>
+            <hint/>
+            <label>inbound</label>
+            <language>en</language>
+            <name>x_kpmg3_sn_kafka_inbound</name>
+            <plural>inbounds</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-11-12 22:28:22</sys_created_on>
+            <sys_id>b4dc67331bd8e010b15fc8031d4bcbe9</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>inbound</sys_name>
+            <sys_package display_value="SN Kafka" source="x_kpmg3_sn_kafka">3ad8a73b1b98e010b15fc8031d4bcb7b</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="SN Kafka">3ad8a73b1b98e010b15fc8031d4bcb7b</sys_scope>
+            <sys_update_name>sys_documentation_x_kpmg3_sn_kafka_inbound__en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-11-12 22:28:22</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

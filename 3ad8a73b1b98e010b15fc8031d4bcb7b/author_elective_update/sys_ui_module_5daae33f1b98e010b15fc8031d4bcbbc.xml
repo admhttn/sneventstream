@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ui_module">
+    <sys_ui_module action="DELETE">
+        <active>true</active>
+        <application/>
+        <filter/>
+        <name>topics</name>
+        <order/>
+        <path/>
+        <path_relative_to_root>false</path_relative_to_root>
+        <roles>x_kpmg3_sn_kafka.topic_user</roles>
+        <sys_class_name>sys_ui_module</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-11-12 22:18:51</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>5daae33f1b98e010b15fc8031d4bcbbc</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>topics</sys_name>
+        <sys_package display_value="SN Kafka" source="x_kpmg3_sn_kafka">3ad8a73b1b98e010b15fc8031d4bcb7b</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="SN Kafka">3ad8a73b1b98e010b15fc8031d4bcb7b</sys_scope>
+        <sys_update_name>sys_ui_module_5daae33f1b98e010b15fc8031d4bcbbc</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-11-12 22:18:51</sys_updated_on>
+        <table>x_kpmg3_sn_kafka_topic</table>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+    </sys_ui_module>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="SN Kafka">3ad8a73b1b98e010b15fc8031d4bcb7b</application>
+        <file_path/>
+        <instance_id>fb8ed6e84ffdda00401199701310c7fc</instance_id>
+        <instance_name>kloudifydev</instance_name>
+        <name>sys_ui_module_5daae33f1b98e010b15fc8031d4bcbbc</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ui_module"><sys_ui_module action="INSERT_OR_UPDATE"><active>true</active><application/><filter/><name>topics</name><order/><path/><path_relative_to_root>false</path_relative_to_root><roles>x_kpmg3_sn_kafka.topic_user</roles><sys_class_name>sys_ui_module</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2020-11-12 22:18:51</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>5daae33f1b98e010b15fc8031d4bcbbc</sys_id><sys_mod_count>0</sys_mod_count><sys_name>topics</sys_name><sys_package display_value="SN Kafka" source="x_kpmg3_sn_kafka">3ad8a73b1b98e010b15fc8031d4bcb7b</sys_package><sys_policy/><sys_scope display_value="SN Kafka">3ad8a73b1b98e010b15fc8031d4bcb7b</sys_scope><sys_update_name>sys_ui_module_5daae33f1b98e010b15fc8031d4bcbbc</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-11-12 22:18:51</sys_updated_on><table>x_kpmg3_sn_kafka_topic</table><uncancelable>false</uncancelable><view_name/></sys_ui_module></record_update>]]></payload>
+        <payload_hash>103896534</payload_hash>
+        <record_name>topics</record_name>
+        <reverted_from/>
+        <source>1a0a23fb1b98e010b15fc8031d4bcba3</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-11-12 22:25:52</sys_created_on>
+        <sys_id>c44c23ff1b98e010b15fc8031d4bcb5e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>175be90a5ca0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-11-12 22:25:52</sys_updated_on>
+        <type>Module</type>
+        <update_guid>95aae33fa498e01091c2373c0b0cabbf</update_guid>
+        <update_guid_history>95aae33fa498e01091c2373c0b0cabbf:1943725126,95aae33fa498e01091c2373c0b0cabbf:1943725126</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-11-12 22:26:14</sys_created_on>
+        <sys_db_object display_value="" name="sys_ui_module">sys_ui_module</sys_db_object>
+        <sys_id>519e18746f774b5297b83e5afeb20d59</sys_id>
+        <sys_metadata>5daae33f1b98e010b15fc8031d4bcbbc</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>topics</sys_name>
+        <sys_package display_value="SN Kafka" source="x_kpmg3_sn_kafka">3ad8a73b1b98e010b15fc8031d4bcb7b</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="SN Kafka">3ad8a73b1b98e010b15fc8031d4bcb7b</sys_scope>
+        <sys_scope_delete display_value="">102f74d05ea4499a81a2619647c38604</sys_scope_delete>
+        <sys_update_name>sys_ui_module_5daae33f1b98e010b15fc8031d4bcbbc</sys_update_name>
+        <sys_update_version display_value="sys_ui_module_5daae33f1b98e010b15fc8031d4bcbbc">c44c23ff1b98e010b15fc8031d4bcb5e</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-11-12 22:26:14</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
