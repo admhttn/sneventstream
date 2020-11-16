@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
-    <element label="topic" max_length="40" name="x_kpmg3_sn_kafka_topic" sizeclass="0" type="collection">
+    <element label="Topic" max_length="40" name="x_kpmg3_sn_kafka_topic" sizeclass="0" type="collection">
         <element display="true" label="Name" mandatory="true" max_length="40" name="name" type="string" unique="true"/>
         <index name="index">
             <element name="name"/>
