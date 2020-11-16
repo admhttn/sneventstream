@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_list parent="" relationship="" sys_domain="global" table="cmdb_ci_server" version="2" view="RPTdc758528dba460104bfa9098f4961930">
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>os_version</element>
+            <list_id display_value="cmdb_ci_server" element="NULL" name="cmdb_ci_server" parent="NULL" relationship="NULL" sys_domain="global" view="14758528dba460104bfa9098f4961937">58758528dba460104bfa9098f4961938</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>0</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-11-14 18:12:31</sys_created_on>
+            <sys_id>9c758528dba460104bfa9098f4961939</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-11-14 18:12:31</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element/>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <name>cmdb_ci_server</name>
+            <parent/>
+            <position/>
+            <relationship/>
+            <sum>false</sum>
+            <sys_class_name>sys_ui_list</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-11-14 18:12:31</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>58758528dba460104bfa9098f4961938</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>cmdb_ci_server</sys_name>
+            <sys_package display_value="SN Kafka" source="x_kpmg3_sn_kafka">3ad8a73b1b98e010b15fc8031d4bcb7b</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="SN Kafka">3ad8a73b1b98e010b15fc8031d4bcb7b</sys_scope>
+            <sys_update_name>sys_ui_list_cmdb_ci_server_RPTdc758528dba460104bfa9098f4961930</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-11-14 18:12:31</sys_updated_on>
+            <sys_user/>
+            <view display_value="Rptdc758528dba460104bfa9098f4961930" name="RPTdc758528dba460104bfa9098f4961930">14758528dba460104bfa9098f4961937</view>
+            <view_name/>
+        </sys_ui_list>
+    </sys_ui_list>
+</record_update>

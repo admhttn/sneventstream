@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="reference_record" label="Reference Record" language="en" table="x_kpmg3_sn_kafka_sn_source">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>reference_record</element>
+            <help/>
+            <hint/>
+            <label>Reference Record</label>
+            <language>en</language>
+            <name>x_kpmg3_sn_kafka_sn_source</name>
+            <plural>Reference Records</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-11-16 15:45:23</sys_created_on>
+            <sys_id>d0f63ecddb2464104bfa9098f4961930</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Reference Record</sys_name>
+            <sys_package display_value="SN Kafka" source="x_kpmg3_sn_kafka">3ad8a73b1b98e010b15fc8031d4bcb7b</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="SN Kafka">3ad8a73b1b98e010b15fc8031d4bcb7b</sys_scope>
+            <sys_update_name>sys_documentation_x_kpmg3_sn_kafka_sn_source_reference_record_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-11-16 15:45:23</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_db_object">
+    <sys_db_object action="INSERT_OR_UPDATE">
+        <access>public</access>
+        <actions_access>false</actions_access>
+        <alter_access>false</alter_access>
+        <caller_access/>
+        <client_scripts_access>false</client_scripts_access>
+        <configuration_access>false</configuration_access>
+        <create_access>false</create_access>
+        <create_access_controls>true</create_access_controls>
+        <delete_access>false</delete_access>
+        <extension_model/>
+        <is_extendable>false</is_extendable>
+        <label>Source (Kafka Source)</label>
+        <live_feed_enabled>false</live_feed_enabled>
+        <name>x_kpmg3_sn_kafka_sn_source</name>
+        <number_ref display_value="KFSRC">9bf53a4ddb2464104bfa9098f4961983</number_ref>
+        <provider_class/>
+        <read_access>true</read_access>
+        <scriptable_table>false</scriptable_table>
+        <super_class/>
+        <sys_class_code/>
+        <sys_class_name>sys_db_object</sys_class_name>
+        <sys_class_path/>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-11-16 15:40:31</sys_created_on>
+        <sys_id>16a43ac9db2464104bfa9098f4961921</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>Source (Kafka Source)</sys_name>
+        <sys_package display_value="SN Kafka" source="x_kpmg3_sn_kafka">3ad8a73b1b98e010b15fc8031d4bcb7b</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="SN Kafka">3ad8a73b1b98e010b15fc8031d4bcb7b</sys_scope>
+        <sys_update_name>sys_db_object_16a43ac9db2464104bfa9098f4961921</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-11-16 15:44:34</sys_updated_on>
+        <update_access>false</update_access>
+        <user_role display_value="x_kpmg3_sn_kafka.kafka_admin" name="x_kpmg3_sn_kafka.kafka_admin">e6e8e33b1b98e010b15fc8031d4bcbf4</user_role>
+        <ws_access>true</ws_access>
+    </sys_db_object>
+</record_update>

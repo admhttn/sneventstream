@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="Inbound (Kafka Sink)" max_length="40" name="x_kpmg3_sn_kafka_inbound" sizeclass="0" type="collection">
+        <element label="message" max_length="5000" name="message" type="xml"/>
+        <element choice="1" label="Status" max_length="40" name="status" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="received" sequence="0" value="received"/>
+                <element inactive_on_update="false" label="processed-success" sequence="1" value="processed-success"/>
+                <element inactive_on_update="false" label="processed-error" sequence="2" value="processed-error"/>
+                <element inactive_on_update="false" label="re-process" sequence="3" value="re-process"/>
+            </choice>
+        </element>
+    </element>
+</database>
