@@ -1,25 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update>
-    <sys_documentation element="" label="Inbound (Kafka Sink)" language="en" table="x_kpmg3_sn_kafka_inbound">
+    <sys_documentation element="source_payload" label="Source payload" language="en" table="x_kpmg3_sn_kafka_sn_source">
         <sys_documentation action="INSERT_OR_UPDATE">
-            <element/>
+            <element>source_payload</element>
             <help/>
             <hint/>
-            <label>Inbound (Kafka Sink)</label>
+            <label>Source payload</label>
             <language>en</language>
-            <name>x_kpmg3_sn_kafka_inbound</name>
-            <plural>Inbound (Kafka Sink)</plural>
+            <name>x_kpmg3_sn_kafka_sn_source</name>
+            <plural>Source payloads</plural>
             <sys_class_name>sys_documentation</sys_class_name>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2020-11-12 22:28:22</sys_created_on>
-            <sys_id>b4dc67331bd8e010b15fc8031d4bcbe9</sys_id>
-            <sys_mod_count>1</sys_mod_count>
-            <sys_name>Inbound (Kafka Sink)</sys_name>
+            <sys_created_on>2020-11-16 15:42:31</sys_created_on>
+            <sys_id>e646f28ddb2464104bfa9098f49619f3</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Source payload</sys_name>
             <sys_package display_value="SN Kafka" source="x_kpmg3_sn_kafka">3ad8a73b1b98e010b15fc8031d4bcb7b</sys_package>
             <sys_policy/>
             <sys_scope display_value="SN Kafka">3ad8a73b1b98e010b15fc8031d4bcb7b</sys_scope>
-            <sys_update_name>sys_documentation_x_kpmg3_sn_kafka_inbound__en</sys_update_name>
+            <sys_update_name>sys_documentation_x_kpmg3_sn_kafka_sn_source_source_payload_en</sys_update_name>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2020-11-16 15:42:47</sys_updated_on>
+            <sys_updated_on>2020-11-16 15:42:31</sys_updated_on>
             <url/>
             <url_target/>
         </sys_documentation>

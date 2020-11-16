@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="Source (Kafka Source)" max_length="40" name="x_kpmg3_sn_kafka_sn_source" type="collection">
+        <element label="Description" max_length="1000" name="description" type="string"/>
+        <element attributes="ignore_filter_on_new=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+        <element label="Reference Record" max_length="32" name="reference_record" type="document_id"/>
+        <element label="Reference Table" max_length="32" name="reference_table" reference="sys_db_object" type="reference"/>
+        <element display="true" label="Short description" max_length="80" name="short_description" type="string"/>
+        <element label="Source payload" max_length="5000" name="source_payload" type="xml"/>
+        <element label="Topic" max_length="32" name="topic" reference="x_kpmg3_sn_kafka_topic" type="reference"/>
+        <index name="index">
+            <element name="reference_table"/>
+        </index>
+        <index name="index2">
+            <element name="topic"/>
+        </index>
+        <index name="index3">
+            <element name="reference_record"/>
+        </index>
+    </element>
+</database>

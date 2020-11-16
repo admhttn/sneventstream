@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_list parent="" relationship="" sys_domain="global" table="cmdb_ci_database" version="2" view="RPT017490d8db28ec104bfa9098f4961966">
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>install_date</element>
+            <list_id display_value="cmdb_ci_database" element="NULL" name="cmdb_ci_database" parent="NULL" relationship="NULL" sys_domain="global" view="4d7490d8db28ec104bfa9098f496196c">c17490d8db28ec104bfa9098f496196e</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>0</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-11-13 20:00:00</sys_created_on>
+            <sys_id>097490d8db28ec104bfa9098f496196f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-11-13 20:00:00</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element/>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <name>cmdb_ci_database</name>
+            <parent/>
+            <position/>
+            <relationship/>
+            <sum>false</sum>
+            <sys_class_name>sys_ui_list</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-11-13 20:00:00</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>c17490d8db28ec104bfa9098f496196e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>cmdb_ci_database</sys_name>
+            <sys_package display_value="SN Kafka" source="x_kpmg3_sn_kafka">3ad8a73b1b98e010b15fc8031d4bcb7b</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="SN Kafka">3ad8a73b1b98e010b15fc8031d4bcb7b</sys_scope>
+            <sys_update_name>sys_ui_list_cmdb_ci_database_RPT017490d8db28ec104bfa9098f4961966</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-11-13 20:00:00</sys_updated_on>
+            <sys_user/>
+            <view display_value="Rpt017490d8db28ec104bfa9098f4961966" name="RPT017490d8db28ec104bfa9098f4961966">4d7490d8db28ec104bfa9098f496196c</view>
+            <view_name/>
+        </sys_ui_list>
+    </sys_ui_list>
+</record_update>
